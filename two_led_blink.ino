@@ -73,6 +73,24 @@ int mapNum(int num){
     case 6:
       val = 2;
       break;
+    case 7:
+      val = 3;
+      break;
+    case 8:
+      val = 4;
+      break;
+    case 9:
+      val = 6;
+      break;
+    case 10:
+      val = 7;
+      break;
+    case 11:
+      val = 8;
+      break;
+    case 12:
+      val = 2;
+      break;
   }
 
   return val;
